@@ -1,0 +1,10 @@
+numpy
+nltk
+tqdm
+ipykernel
+transformers
+torchtext
+matplotlib
+sacrebleu
+sentencepiece
+protobuf
